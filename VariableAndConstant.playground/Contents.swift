@@ -17,6 +17,10 @@ numInt = 321
 numDouble = 321.25
 statusBol = false
 
+//Constant
+let conNameString = "Final"
+
+
 
 
 

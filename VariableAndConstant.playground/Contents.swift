@@ -22,6 +22,17 @@ let conNameString = "Final"
 
 
 
+// Declare data type
+var surname: String = "Prommala"
+var myMoney: Double = 12345.25
+var myStatus: Bool = false
+
+
+
+
+
+
+
 
 
 

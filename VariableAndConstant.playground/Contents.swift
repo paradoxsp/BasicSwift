@@ -23,9 +23,15 @@ let conNameString = "Final"
 
 
 // Declare data type
+var name: String = "Sayan"
 var surname: String = "Prommala"
 var myMoney: Double = 12345.25
 var myStatus: Bool = false
+
+// Display in console
+print("Normal String")
+print("Name = \(name) SurName = \(surname)")
+print("myStatus = \(myStatus)")
 
 
 

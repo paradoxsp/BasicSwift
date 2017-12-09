@@ -31,3 +31,31 @@ print("After >> \(numberInts)")
 numberInts.sort()
 
 
+//====================== Dictionary =======================
+
+
+var dicNameStrings = ["key1":"K1", "key2":"K2", "key3":"K3"]
+var dicNameInts = ["key1":1, "key2":2, "key3":3]
+
+// Count Dictionary
+print("dicNameStrings >> \(dicNameStrings.count)")
+
+print("dicNameStrings >> \(dicNameStrings["key2"]!)")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
